@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "b4pWxn2xK9uj92ZV6iywBrDi1WWA9e5vEYJG9npznPI=",
+  "Source": "NetArchTestSample.Api",
+  "BasePath": "_content/NetArchTestSample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

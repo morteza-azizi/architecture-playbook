@@ -1,0 +1,398 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
+        "projectName": "NetArchTestSample.Api",
+        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
+        "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
+              },
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              },
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
+        "projectName": "NetArchTestSample.ArchitectureTests",
+        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
+        "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj"
+              },
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
+              },
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              },
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "NetArchTest.Rules": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
+        "projectName": "NetArchTestSample.Data",
+        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
+        "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "projectName": "NetArchTestSample.Domain",
+        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
+        "projectName": "NetArchTestSample.Infrastructure",
+        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\morte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

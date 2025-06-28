@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="9260baa2-4b5a-40b3-bc79-3b75d8c1a3d0" name="@morteza-pc 2025-06-26 11:00:50" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-06-26T11:00:50.6909069+02:00" queuing="2025-06-26T11:00:50.6909070+02:00" start="2025-06-26T11:00:49.5932718+02:00" finish="2025-06-26T11:00:50.7488239+02:00" />
+  <TestSettings name="default" id="91b4f0e3-f012-4ad3-a9c9-c134f15e85ba">
+    <Deployment runDeploymentRoot="_morteza-pc_2025-06-26_11_00_50" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="e94d2d37-c2bb-4466-b42d-77c2c4ca5998" testId="e9f1b95b-c142-1907-822b-ac6732c73eaf" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Services_Should_Not_Depend_On_Controllers" computerName="morteza-pc" duration="00:00:00.0031342" startTime="2025-06-26T11:00:50.5579321+02:00" endTime="2025-06-26T11:00:50.5579322+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e94d2d37-c2bb-4466-b42d-77c2c4ca5998" />
+    <UnitTestResult executionId="e3e445c9-cd31-4796-865d-330d6d2bf949" testId="8ce0d73a-a0a4-0d26-19aa-ee4526b10f12" testName="NetArchTestSample.ArchitectureTests.LayeringRules.UI_Must_Not_Depend_On_Services" computerName="morteza-pc" duration="00:00:00.0003914" startTime="2025-06-26T11:00:50.5799411+02:00" endTime="2025-06-26T11:00:50.5799412+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e3e445c9-cd31-4796-865d-330d6d2bf949" />
+    <UnitTestResult executionId="1e2d9c76-bad7-4416-9d64-29290cc2d249" testId="ce8b3715-df87-3c26-a434-ffc93dea7865" testName="NetArchTestSample.ArchitectureTests.LayeringRules.All_Service_Classes_Should_Be_Sealed" computerName="morteza-pc" duration="00:00:00.0007192" startTime="2025-06-26T11:00:50.5795200+02:00" endTime="2025-06-26T11:00:50.5795201+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e2d9c76-bad7-4416-9d64-29290cc2d249" />
+    <UnitTestResult executionId="92e146f9-3b67-4e21-bdb6-6dba0e477663" testId="7688872d-d212-10e0-1e55-d37037b827af" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Domain_Should_Not_Depend_On_Infrastructure" computerName="morteza-pc" duration="00:00:00.0003343" startTime="2025-06-26T11:00:50.5583113+02:00" endTime="2025-06-26T11:00:50.5583114+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92e146f9-3b67-4e21-bdb6-6dba0e477663" />
+    <UnitTestResult executionId="35d3b1c6-977e-4ab7-ac9a-4afd319f8f34" testId="dcac2304-9c8b-1b0f-d739-aa815848e536" testName="NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_PascalCase" computerName="morteza-pc" duration="00:00:00.0184324" startTime="2025-06-26T11:00:50.6185647+02:00" endTime="2025-06-26T11:00:50.6185648+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35d3b1c6-977e-4ab7-ac9a-4afd319f8f34">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.True() Failure
+Expected: True
+Actual:   False</Message>
+          <StackTrace>   at NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_PascalCase() in /home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/LayeringRules.cs:line 107
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="07058cd3-0687-49a4-b171-5d369a36af6d" testId="31214efa-e279-b088-08f0-5f6aa11e7ff3" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Domain_Should_Not_Depend_On_UI" computerName="morteza-pc" duration="00:00:00.0249316" startTime="2025-06-26T11:00:50.5525318+02:00" endTime="2025-06-26T11:00:50.5525319+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07058cd3-0687-49a4-b171-5d369a36af6d" />
+    <UnitTestResult executionId="19e8a0fd-6a0b-46e5-b6ed-c16427484c46" testId="220c33c4-3735-753c-4f92-cf257737796d" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Only_Controllers_Should_Reference_AspNetMvc" computerName="morteza-pc" duration="00:00:00.0203319" startTime="2025-06-26T11:00:50.5787725+02:00" endTime="2025-06-26T11:00:50.5787726+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19e8a0fd-6a0b-46e5-b6ed-c16427484c46" />
+    <UnitTestResult executionId="4aeef3ef-41e7-4324-9858-badc772a2b30" testId="4fa69e6d-f3ee-1af5-3416-16b780d41d49" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Interfaces_Should_Not_Depend_On_Concrete_Implementations" computerName="morteza-pc" duration="00:00:00.0021585" startTime="2025-06-26T11:00:50.5547424+02:00" endTime="2025-06-26T11:00:50.5547425+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4aeef3ef-41e7-4324-9858-badc772a2b30" />
+    <UnitTestResult executionId="4342d336-98ea-46e2-9a0f-4ee81f6f55b7" testId="33f83975-6975-e562-9d49-9181c750e34e" testName="NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_At_Least_8_Characters_Long" computerName="morteza-pc" duration="00:00:00.0393235" startTime="2025-06-26T11:00:50.5430762+02:00" endTime="2025-06-26T11:00:50.5430764+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4342d336-98ea-46e2-9a0f-4ee81f6f55b7">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.True() Failure
+Expected: True
+Actual:   False</Message>
+          <StackTrace>   at NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_At_Least_8_Characters_Long() in /home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/LayeringRules.cs:line 96
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0bc49af5-8dc7-41ca-aa21-dc1a4173822b" testId="0f709e98-3d6f-3e0e-8752-096dac575ce9" testName="NetArchTestSample.ArchitectureTests.LayeringRules.Repository_Classes_Must_Be_In_Data_Namespace" computerName="morteza-pc" duration="00:00:00.0609204" startTime="2025-06-26T11:00:50.4815978+02:00" endTime="2025-06-26T11:00:50.4817046+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0bc49af5-8dc7-41ca-aa21-dc1a4173822b" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Services_Should_Not_Depend_On_Controllers" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="e9f1b95b-c142-1907-822b-ac6732c73eaf">
+      <Execution id="e94d2d37-c2bb-4466-b42d-77c2c4ca5998" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Services_Should_Not_Depend_On_Controllers" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Only_Controllers_Should_Reference_AspNetMvc" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="220c33c4-3735-753c-4f92-cf257737796d">
+      <Execution id="19e8a0fd-6a0b-46e5-b6ed-c16427484c46" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Only_Controllers_Should_Reference_AspNetMvc" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.All_Service_Classes_Should_Be_Sealed" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="ce8b3715-df87-3c26-a434-ffc93dea7865">
+      <Execution id="1e2d9c76-bad7-4416-9d64-29290cc2d249" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="All_Service_Classes_Should_Be_Sealed" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Domain_Should_Not_Depend_On_UI" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="31214efa-e279-b088-08f0-5f6aa11e7ff3">
+      <Execution id="07058cd3-0687-49a4-b171-5d369a36af6d" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Domain_Should_Not_Depend_On_UI" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Domain_Should_Not_Depend_On_Infrastructure" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="7688872d-d212-10e0-1e55-d37037b827af">
+      <Execution id="92e146f9-3b67-4e21-bdb6-6dba0e477663" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Domain_Should_Not_Depend_On_Infrastructure" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_At_Least_8_Characters_Long" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="33f83975-6975-e562-9d49-9181c750e34e">
+      <Execution id="4342d336-98ea-46e2-9a0f-4ee81f6f55b7" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="All_Class_Names_Should_Be_At_Least_8_Characters_Long" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Repository_Classes_Must_Be_In_Data_Namespace" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="0f709e98-3d6f-3e0e-8752-096dac575ce9">
+      <Execution id="0bc49af5-8dc7-41ca-aa21-dc1a4173822b" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Repository_Classes_Must_Be_In_Data_Namespace" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.UI_Must_Not_Depend_On_Services" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="8ce0d73a-a0a4-0d26-19aa-ee4526b10f12">
+      <Execution id="e3e445c9-cd31-4796-865d-330d6d2bf949" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="UI_Must_Not_Depend_On_Services" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.Interfaces_Should_Not_Depend_On_Concrete_Implementations" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="4fa69e6d-f3ee-1af5-3416-16b780d41d49">
+      <Execution id="4aeef3ef-41e7-4324-9858-badc772a2b30" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="Interfaces_Should_Not_Depend_On_Concrete_Implementations" />
+    </UnitTest>
+    <UnitTest name="NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_PascalCase" storage="/home/morteza/projects/architecture/netarchtestpoc/netarchtestsample.architecturetests/bin/debug/net9.0/netarchtestsample.architecturetests.dll" id="dcac2304-9c8b-1b0f-d739-aa815848e536">
+      <Execution id="35d3b1c6-977e-4ab7-ac9a-4afd319f8f34" />
+      <TestMethod codeBase="/home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/bin/Debug/net9.0/NetArchTestSample.ArchitectureTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="NetArchTestSample.ArchitectureTests.LayeringRules" name="All_Class_Names_Should_Be_PascalCase" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="e9f1b95b-c142-1907-822b-ac6732c73eaf" executionId="e94d2d37-c2bb-4466-b42d-77c2c4ca5998" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ce0d73a-a0a4-0d26-19aa-ee4526b10f12" executionId="e3e445c9-cd31-4796-865d-330d6d2bf949" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce8b3715-df87-3c26-a434-ffc93dea7865" executionId="1e2d9c76-bad7-4416-9d64-29290cc2d249" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7688872d-d212-10e0-1e55-d37037b827af" executionId="92e146f9-3b67-4e21-bdb6-6dba0e477663" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dcac2304-9c8b-1b0f-d739-aa815848e536" executionId="35d3b1c6-977e-4ab7-ac9a-4afd319f8f34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31214efa-e279-b088-08f0-5f6aa11e7ff3" executionId="07058cd3-0687-49a4-b171-5d369a36af6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="220c33c4-3735-753c-4f92-cf257737796d" executionId="19e8a0fd-6a0b-46e5-b6ed-c16427484c46" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4fa69e6d-f3ee-1af5-3416-16b780d41d49" executionId="4aeef3ef-41e7-4324-9858-badc772a2b30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33f83975-6975-e562-9d49-9181c750e34e" executionId="4342d336-98ea-46e2-9a0f-4ee81f6f55b7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0f709e98-3d6f-3e0e-8752-096dac575ce9" executionId="0bc49af5-8dc7-41ca-aa21-dc1a4173822b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" passed="8" failed="2" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.8.2+699d445a1a (64-bit .NET 9.0.0)
+[xUnit.net 00:00:00.09]   Discovering: NetArchTestSample.ArchitectureTests
+[xUnit.net 00:00:00.14]   Discovered:  NetArchTestSample.ArchitectureTests
+[xUnit.net 00:00:00.15]   Starting:    NetArchTestSample.ArchitectureTests
+[xUnit.net 00:00:00.38]       Assert.True() Failure
+[xUnit.net 00:00:00.38]       Expected: True
+[xUnit.net 00:00:00.38]       Actual:   False
+[xUnit.net 00:00:00.38]       Stack Trace:
+[xUnit.net 00:00:00.38]         /home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/LayeringRules.cs(96,0): at NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_At_Least_8_Characters_Long()
+[xUnit.net 00:00:00.38]            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+[xUnit.net 00:00:00.38]            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+[xUnit.net 00:00:00.46]       Assert.True() Failure
+[xUnit.net 00:00:00.46]       Expected: True
+[xUnit.net 00:00:00.46]       Actual:   False
+[xUnit.net 00:00:00.46]       Stack Trace:
+[xUnit.net 00:00:00.46]         /home/morteza/projects/Architecture/NetArchTestPoc/NetArchTestSample.ArchitectureTests/LayeringRules.cs(107,0): at NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_PascalCase()
+[xUnit.net 00:00:00.46]            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+[xUnit.net 00:00:00.46]            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+[xUnit.net 00:00:00.46]   Finished:    NetArchTestSample.ArchitectureTests
+</StdOut>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="morteza-pc" outcome="Error" timestamp="2025-06-26T11:00:50.5379047+02:00">
+        <Text>[xUnit.net 00:00:00.37]     NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_At_Least_8_Characters_Long [FAIL]</Text>
+      </RunInfo>
+      <RunInfo computerName="morteza-pc" outcome="Error" timestamp="2025-06-26T11:00:50.7296762+02:00">
+        <Text>[xUnit.net 00:00:00.46]     NetArchTestSample.ArchitectureTests.LayeringRules.All_Class_Names_Should_Be_PascalCase [FAIL]</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
