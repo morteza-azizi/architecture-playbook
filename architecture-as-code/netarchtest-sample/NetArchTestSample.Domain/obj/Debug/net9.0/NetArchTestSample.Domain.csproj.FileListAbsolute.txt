@@ -20,3 +20,15 @@ C:\Projects\Samples\NetArchTestSample\NetArchTestSample.Domain\obj\Debug\net9.0\
 C:\Projects\Samples\NetArchTestSample\NetArchTestSample.Domain\obj\Debug\net9.0\refint\NetArchTestSample.Domain.dll
 C:\Projects\Samples\NetArchTestSample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.pdb
 C:\Projects\Samples\NetArchTestSample\NetArchTestSample.Domain\obj\Debug\net9.0\ref\NetArchTestSample.Domain.dll
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\bin\Debug\net9.0\NetArchTestSample.Domain.deps.json
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\bin\Debug\net9.0\NetArchTestSample.Domain.dll
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\bin\Debug\net9.0\NetArchTestSample.Domain.pdb
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.AssemblyInfoInputs.cache
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.AssemblyInfo.cs
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.sourcelink.json
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.dll
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\refint\NetArchTestSample.Domain.dll
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\NetArchTestSample.Domain.pdb
+C:\Projects\Github\architecture-playbook\architecture-as-code\netarchtest-sample\NetArchTestSample.Domain\obj\Debug\net9.0\ref\NetArchTestSample.Domain.dll

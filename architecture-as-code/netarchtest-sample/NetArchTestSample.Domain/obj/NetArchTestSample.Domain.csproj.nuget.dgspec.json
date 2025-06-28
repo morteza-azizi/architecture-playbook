@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {}
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
         "projectName": "NetArchTestSample.Domain",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

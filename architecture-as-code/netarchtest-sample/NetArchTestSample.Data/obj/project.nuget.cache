@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9yAY1ERo3bw=",
+  "dgSpecHash": "oX+0M5XPgUY=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
+  "projectFilePath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

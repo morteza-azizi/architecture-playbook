@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRGoFqNwpEo=",
+  "dgSpecHash": "Qdvss4XGHZU=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
+  "projectFilePath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\morte\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\morte\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",

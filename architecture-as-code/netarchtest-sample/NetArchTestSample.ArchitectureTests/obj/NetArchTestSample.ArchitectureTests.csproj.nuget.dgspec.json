@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {}
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
         "projectName": "NetArchTestSample.Api",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -29,14 +29,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
               },
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
               },
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
         "projectName": "NetArchTestSample.ArchitectureTests",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\NetArchTestSample.ArchitectureTests.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.ArchitectureTests\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.ArchitectureTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,17 +122,17 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Api\\NetArchTestSample.Api.csproj"
               },
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj"
               },
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
               },
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj"
               }
             }
           }
@@ -194,14 +194,14 @@
         }
       }
     },
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
         "projectName": "NetArchTestSample.Data",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\NetArchTestSample.Data.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Data\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -219,8 +219,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
               }
             }
           }
@@ -260,14 +260,14 @@
         }
       }
     },
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
         "projectName": "NetArchTestSample.Domain",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -322,14 +322,14 @@
         }
       }
     },
-    "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
+    "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
         "projectName": "NetArchTestSample.Infrastructure",
-        "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\NetArchTestSample.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\morte\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -347,8 +347,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Samples\\NetArchTestSample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
+              "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Github\\architecture-playbook\\architecture-as-code\\netarchtest-sample\\NetArchTestSample.Domain\\NetArchTestSample.Domain.csproj"
               }
             }
           }
